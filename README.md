@@ -35,3 +35,16 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=white-hat-hacker302&show_icons=true&locale=en" alt="white-hat-hacker302" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=white-hat-hacker302&" alt="white-hat-hacker302" /></p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=PAKISTANI+White Hat+HACKER;MR+White;" alt="Typing SVG" />
+</h1>
+
+---
+
+<p align="center">
+  <img src="https://i.gifer.com/7efs.gif" width="300" alt="Matrix Hacking Animation" />
+</p>
+
+```bash
+┌──(root💀kali)-[~]
+└─# echo "Welcome to MR White's Cyber Space"
