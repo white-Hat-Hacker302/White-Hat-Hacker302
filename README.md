@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=white-hat-hacker302&" alt="white-hat-hacker302" /></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=PAKISTANI+White Hat+HACKER;MR+White;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=PAKISTANI+Whitehat+HACKER;MR+SABAZ+ALI+KHAN;" alt="Typing SVG" />
 </h1>
 
 ---
