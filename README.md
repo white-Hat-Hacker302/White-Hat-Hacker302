@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm White Hat Hacker</h1>
 <h3 align="center">A passionate frontend professional White Hat hacker from Pakistan</h3>
-
-Yb        dP 88  88  dP"Yb         db    8b    d8     88     
- Yb  db  dP  88  88 dP   Yb       dPYb   88b  d88     88     
-  YbdPYbdP   888888 Yb   dP      dP__Yb  88YbdP88     88     
-   YP  YP    88  88  YbodP      dP""""Yb 88 YY 88     88     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
+     ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=white-hat-hacker302&label=Profile%20views&color=0e75b6&style=flat" alt="white-hat-hacker302" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=white-hat-hacker302" alt="white-hat-hacker302" /></a> </p>
